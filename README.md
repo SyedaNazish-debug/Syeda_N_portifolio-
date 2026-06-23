@@ -76,7 +76,7 @@ Computer Science undergraduate with interests in **Artificial Intelligence**, **
   <img src="https://img.shields.io/badge/ISP_56_Rank-27_/_8000-brightgreen?style=flat-square&logo=target" alt="ISP 56 Rank"/> 
   <img src="https://img.shields.io/badge/Kaggle-Python_Developer_Badge-blue?style=flat-square&logo=kaggle" alt="Kaggle Python Badge"/> 
   <img src="https://img.shields.io/badge/HP_Life-Ambassador_Badge-red?style=flat-square&logo=hp" alt="HP Life Ambassador"/> 
-  <img src="https://img.shields.io/badge/Google_x_Kaggle-5_Days_AI_Agent_Vibe_Coding-yellow?style=flat-square&logo=google" alt="Google x Kaggle AI Agent"/>
+  <img src="https://developers.google.com/profile/badges/events/cloud/five-day-ai-agents?u=Syeda_nazish" alt="Google x Kaggle AI Agent"/>
 </p>
 
 ---
