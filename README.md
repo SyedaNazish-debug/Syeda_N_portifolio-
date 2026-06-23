@@ -1,4 +1,4 @@
-# Syeda_N_portifolio-
+# SyedaNazish-debug-
 User profile of syeda Nazish 
 # 🌟 Hello World! I'm Syeda Nazish Adiba khateeb 👋
 
