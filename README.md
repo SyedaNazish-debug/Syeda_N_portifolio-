@@ -1,5 +1,5 @@
  Hello World! 
- # I'm Syeda Nazish Adiba khateeb 
+ # I'm Syeda Nazish A.K
 
 <p align="center">
   <img src="https://img.shields.io/badge/CS%20Student-blue?style=for-the-badge&logo=computer-science&logoColor=white" alt="Computer science and applications Student" />
